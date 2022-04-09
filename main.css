@@ -1,0 +1,24 @@
+.equation-container {
+  background-color: black;
+  display: flex;
+  justify-content: right;
+  align-content: center;
+  height: 40px;
+  width: 334px;
+  margin-left: 4px;
+  margin-bottom: 4px;
+}
+
+.equation {
+  color: #fff;
+  margin-right: 4px;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+}
+
+.col-span-2 {
+  width: 166px;
+}
